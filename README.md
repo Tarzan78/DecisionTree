@@ -1,7 +1,7 @@
 # DecisionTree
  Decision Tree applied in a project
 
-This decision tree is an example created in a game,\n
+This decision tree is an example created in a game,
   his objective is to compute the damage from a shotter in a target
   but we have to analyze different variables:
   -Know if the target is behind a defense
